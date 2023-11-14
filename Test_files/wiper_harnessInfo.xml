@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">Wiper_Harness</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">suha274823</P>
+    <P Name="CreatedOn">Thu Oct 12 16:14:40 2023</P>
+    <P Name="ModifiedBy">suha274823</P>
+    <P Name="LastSaved">Wed Nov 15 01:09:22 2023</P>
+    <P Name="Owner">10</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">Subsystem</P>
+    <P Name="Directory"/>
+    <P Name="FileName">Wiper_Harness.slx</P>
+    <P Name="SavedVersion">10.6</P>
+    <P Name="HarnessUUID">965705f7-b971-4ad2-aa2c-6dbf0a793ea5</P>
+    <P Name="HarnessConnectionsMap">0,1,2|0|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">0</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Test Sequence</P>
+    <P Name="SinkTypeString">Test Assessment</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">6|22|0|0|0|0|0</P>
+    <P Name="OpenGraphs">||||Wiper_Harness</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">771159de-6d03-4145-b25e-ff382c8637e2</P>
+    <P Name="OwnerBDName">wiper</P>
+  </ModelMetadata>
+</HarnessInformation>
